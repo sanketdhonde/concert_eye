@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+pydantic
+pandas
+numpy
+kafka-python
+redis
+opencv-python
+torch
+langchain
+openai
+streamlit
+python-dotenv
+requests
+psycopg2-binary
+sqlalchemy
