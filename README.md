@@ -1,19 +1,32 @@
-# Concert Eye
-
-This is the README for the Concert Eye project.
+# Guardian Eye Documentation
 
 ## Overview
-
-Concert Eye is designed to provide insights and management tools for concert organization and planning.
-
-## Getting Started
-
-Follow the instructions below to set up your development environment.
+Guardian Eye is an AI-powered crowd monitoring system designed to enhance public safety in crowded venues. Utilizing advanced algorithms, the system analyzes crowd behavior in real-time to identify potential threats and ensure a safer environment for all attendees.
 
 ## Features
-- Feature 1
-- Feature 2
-- Feature 3
+- **Real-time Monitoring**: Provides instant analysis of crowd dynamics.
+- **Threat Detection**: Uses AI to identify unusual behaviors that may indicate risks.
+- **Data Analytics**: Gathers data over time to inform future safety protocols.
+- **User-Friendly Interface**: Easy navigation and usability for safety personnel.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/sanketdhonde/concert_eye.git
+   ```
+2. Install the necessary dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+## Usage
+1. Start the system with the following command:
+   ```bash
+   python main.py
+   ```
+2. Configure the settings in the `config.json` file according to your venue requirements.
+
+## Conclusion
+Guardian Eye aims to revolutionize crowd safety. By providing real-time insights, it empowers safety officials to act swiftly and effectively.
+
+For more information, please refer to our Wiki or contact support.
